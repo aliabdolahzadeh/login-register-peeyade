@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\ali\Desktop\android-login-register-system-master\behTalk\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\ali\Desktop\android-login-register-system-master\behTalk\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_6299b3685020c4b4fde8842f5ccd0c590dc0ce06\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ali\Desktop\android-login-register-system-master\behTalk\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fdd3dd377aa30c4fc4dd4e06fc8eeedf706d0694">
+        <dex dex="C:\Users\ali\Desktop\android-login-register-system-master\behTalk\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_38d860277048ac88bee6cd984ff3bcde97623a1c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ali\Desktop\android-login-register-system-master\behTalk\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\ali\Desktop\android-login-register-system-master\behTalk\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_90ff55077d0da865a61f26cbc1f8bc4f107d610c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ali\Desktop\android-login-register-system-master\behTalk\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\ali\Desktop\android-login-register-system-master\behTalk\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_158bed992995a7a8649201ef26a2447bb4bf788a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ali\Desktop\android-login-register-system-master\behTalk\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\ali\Desktop\android-login-register-system-master\behTalk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_3ec6122021b7dc8932867dd7ff498e821d027084\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ali\Desktop\android-login-register-system-master\behTalk\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="016ae4493812483a08770233d82524ce45996811">
+        <dex dex="C:\Users\ali\Desktop\android-login-register-system-master\behTalk\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_99099f8eeed39244e3d04d040171b42c035be973\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ali\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\ali\Desktop\android-login-register-system-master\behTalk\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_6000921042a7b7ceacca023bae2a886fe1ddc303\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ali\Desktop\android-login-register-system-master\behTalk\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\ali\Desktop\android-login-register-system-master\behTalk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_bef71a97e44e72d6ee043e96cbc563583d476548\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ali\Desktop\android-login-register-system-master\behTalk\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\ali\Desktop\android-login-register-system-master\behTalk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_6701e40d4b5f3d94d9fe3bd90a4ba5b66b98ba1b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ali\Desktop\android-login-register-system-master\behTalk\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\ali\Desktop\android-login-register-system-master\behTalk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_ea30b53e914caacd4cd4795a0d16adbfa8335f02\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ali\Desktop\android-login-register-system-master\behTalk\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\ali\Desktop\android-login-register-system-master\behTalk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_224895e41b768d2b92bc2031d1fa70e0fd2e0678\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ali\Desktop\android-login-register-system-master\behTalk\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\ali\Desktop\android-login-register-system-master\behTalk\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_b85d350ee823f0cdddf5d145779ec8822c1060e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ali\Desktop\android-login-register-system-master\behTalk\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\ali\Desktop\android-login-register-system-master\behTalk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_4b8dd9ff377fec7a3740525dda0b429ff22f8413\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ali\Desktop\android-login-register-system-master\behTalk\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\ali\Desktop\android-login-register-system-master\behTalk\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_4b9210693b92fff83983b9427ef91b7d59bc6897\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ali\Desktop\android-login-register-system-master\behTalk\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\ali\Desktop\android-login-register-system-master\behTalk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_88a6ccca1d9665d193f230d931a3625b9115d568\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ali\Desktop\android-login-register-system-master\behTalk\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\ali\Desktop\android-login-register-system-master\behTalk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_feec60ab751261e96c4f8e64b996548c37e2e0f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ali\Desktop\android-login-register-system-master\behTalk\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\ali\Desktop\android-login-register-system-master\behTalk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_b126bf4e84f89a9bb4a50a35c23ef02e71271834\classes.dex" />
+    </item>
+
+</items>

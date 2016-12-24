@@ -1,0 +1,7 @@
+#Sat Dec 24 23:34:11 IRST 2016
+base.0=C\:\\Users\\ali\\Desktop\\android-login-register-system-master\\behTalk\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_38d860277048ac88bee6cd984ff3bcde97623a1c
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\ali\\Desktop\\android-login-register-system-master\\behTalk\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_99099f8eeed39244e3d04d040171b42c035be973\\classes.dex
+base.1=C\:\\Users\\ali\\Desktop\\android-login-register-system-master\\behTalk\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_99099f8eeed39244e3d04d040171b42c035be973
+file.0=C\:\\Users\\ali\\Desktop\\android-login-register-system-master\\behTalk\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_38d860277048ac88bee6cd984ff3bcde97623a1c\\classes.dex
