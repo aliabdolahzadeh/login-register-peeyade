@@ -1,0 +1,11 @@
+<resources>
+<string name="app_name">Beh Talk</string>
+    <string name="mail">ایمیل</string>
+    <string name="password">رمز عبور</string>
+    <string name="name">نام ونام خانوادگی</string>
+   <string name="mobile_number">موبایل</string>
+ <string name="active_code">کد فعال سازی</string>
+<string name="sign_in">شروع کن</string>
+<string name="sign_up">ثبت کن</string>
+<string name="mobile_name">موبایل یا ایمیل</string>
+</resources>
